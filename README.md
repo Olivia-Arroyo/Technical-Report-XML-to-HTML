@@ -1,0 +1,1 @@
+Reposatory for a project where I created an XML Schema file to define an XML document structure for simplified technical reports. I wrote an XML document based on the Schema and validated the xMLdocument against the Schema specification using the SaxParser API to remove any bugs. I then wrote an XSL stylesheet to transform the XML file into an HTML file using a transformer.
