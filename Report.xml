@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--  A Technical Report  -->
+
+<report
+		title="A Report on The Seven Continents"
+		date="March 3, 2024"
+		author="Olivia Arroyo"
+		>
+		
+    <!-- PROCESSING INSTRUCTION -->
+    <?my.presentation.Program QUERY="exec, tech, all"?>
+    
+    <report-title>The Seven Continents</report-title>
+    
+    <index type="all">
+    	<index-title>Index</index-title>
+    	<list>
+    	  <item>Chapter 1: Africa</item>
+    	  <item>Chapter 2: Antartica</item>
+    	  <item>Chapter 3: Asia</item>
+    	  <item>Chapter 4: Australia</item>
+    	  <item>Chapter 5: Europe</item>
+    	  <item>Chapter 6: North America</item>
+    	  <item>Chapter 7: South America</item>
+    	</list>
+    </index>
+    
+    <chapter type="all">
+      <chapter-title><em>Chapter 1 Africa</em></chapter-title>
+      <item><em>Learn about Africa</em></item>
+      <item>Africa is the second largest continent.</item>
+      <item>For more information, please visit 
+            <link target="https://en.wikipedia.org/wiki/Africa"><b>Wikipedia</b></link> and 	 	
+            <br/> <link target="https://education.nationalgeographic.org/resource/Continent"/>
+      </item>
+    </chapter>
+    
+    <chapter type="all">
+      <chapter-title><em>Chapter 2 Antartica</em></chapter-title>
+      <item><em>Learn about Antartica</em></item>
+      <item>Antartica is the fifth largest continent.</item>
+      <item>For more information, please visit 
+            <link target="https://en.wikipedia.org/wiki/Antarctica"><b>Wikipedia</b></link> and 	 	
+            <br/> <link target="https://education.nationalgeographic.org/resource/Continent"/>
+      </item>
+    </chapter>
+    
+    <chapter type="all">
+      <chapter-title><em>Chapter 3 Asia</em></chapter-title>
+      <item><em>Learn about Asia</em></item>
+      <item>Asia is the largest continent.</item>
+      <item>For more information, please visit 
+            <link target="https://en.wikipedia.org/wiki/Asia"><b>Wikipedia</b></link> and 	 	
+            <br/> <link target="https://education.nationalgeographic.org/resource/Continent"/>
+      </item>
+    </chapter>
+    
+    <chapter type="all">
+      <chapter-title><em>Chapter 4 Australia</em></chapter-title>
+      <item><em>Learn about Australia</em></item>
+      <item>Australia is the smallest continent.</item>
+      <item>For more information, please visit 
+            <link target="https://en.wikipedia.org/wiki/Australia"><b>Wikipedia</b></link> and 	 	
+            <br/> <link target="https://education.nationalgeographic.org/resource/Continent"/>
+      </item>
+    </chapter>
+    
+    <chapter type="all">
+      <chapter-title><em>Chapter 5 Europe</em></chapter-title>
+      <item><em>Learn about Europe</em></item>
+      <item>Europe is the sixth largest continent.</item>
+      <item>For more information, please visit 
+            <link target="https://en.wikipedia.org/wiki/Europe"><b>Wikipedia</b></link> and 	 	
+            <br/> <link target="https://education.nationalgeographic.org/resource/Continent"/>
+      </item>
+    </chapter>
+    
+    <chapter type="all">
+      <chapter-title><em>Chapter 6 North America</em></chapter-title>
+      <item><em>Learn about North America</em></item>
+      <item>North America is the third largest continent.</item>
+      <item>For more information, please visit 
+            <link target="https://en.wikipedia.org/wiki/NorthAmerica"><b>Wikipedia</b></link> and 	 	
+            <br/> <link target="https://education.nationalgeographic.org/resource/Continent"/>
+      </item>
+    </chapter>
+    
+    <chapter type="all">
+      <chapter-title><em>Chapter 7 South America</em></chapter-title>
+      <item><em>Learn about South America</em></item>
+      <item>South America is the second largest continent.</item>
+      <item>For more information, please visit 
+            <link target="https://en.wikipedia.org/wiki/SouthAmerica"><b>Wikipedia</b></link> and 	 	
+            <br/> <link target="https://education.nationalgeographic.org/resource/Continent"/>
+      </item>
+    </chapter>
+</report>
+
+
